@@ -9,27 +9,33 @@ A complete **full-stack application** for submitting and managing requests — p
 | -------------------- | ---------------------------------------------------------------------------------------- |
 | **Backend API**      | [https://eduzap-backend.onrender.com](https://eduzap-backend.onrender.com)               |
 | **Web Dashboard**    | [https://assignment-d8jj.onrender.com](https://assignment-d8jj.onrender.com)             |
-| **Mobile App (APK)** | [Download & Install](https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/1a5718bf-540a-4e60-b125-79494785d9f1) |
+| **Mobile App (APK)** | [📥 Direct Download](https://expo.dev/artifacts/eas/1a5718bf-540a-4e60-b125-79494785d9f1) • [View Build Page](https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/1a5718bf-540a-4e60-b125-79494785d9f1) |
 | **API Health Check** | [https://eduzap-backend.onrender.com/health](https://eduzap-backend.onrender.com/health) |
 
 ### 📱 Mobile App Installation
 
-**Shareable Download Link (Anyone can use this!):**
+**🚀 Direct Download (Click to Download APK Immediately):**
+```
+https://expo.dev/artifacts/eas/1a5718bf-540a-4e60-b125-79494785d9f1
+```
+
+**📋 Alternative: View Build Page**
 ```
 https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/1a5718bf-540a-4e60-b125-79494785d9f1
 ```
 
 **Installation Steps:**
-1. Open the link above on Android phone
-2. Click "Download" button on the page
+1. **Click the direct download link above** (APK downloads immediately)
+2. Open the downloaded APK file on your Android phone
 3. Install APK (enable "Install from unknown sources" in Settings → Security if needed)
 4. Open the app and start using!
 
 **Features:**
-- ✅ Direct download link
+- ✅ **Direct download** - Click link → APK downloads instantly
 - ✅ Works on any Android device
 - ✅ No app store required
 - ✅ Share with recruiters/friends easily
+- ✅ Quick & simple installation
 
 ---
 

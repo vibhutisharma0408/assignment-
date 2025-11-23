@@ -9,7 +9,7 @@ A complete **full-stack application** for submitting and managing requests — p
 | -------------------- | ---------------------------------------------------------------------------------------- |
 | **Backend API**      | [https://eduzap-backend.onrender.com](https://eduzap-backend.onrender.com)               |
 | **Web Dashboard**    | [https://assignment-d8jj.onrender.com](https://assignment-d8jj.onrender.com)             |
-| **Mobile App (APK)** | [Download](https://expo.dev/artifacts/eas/k3iLcepZM2LDUdv3t1wbMj.aab)                    |
+| **Mobile App (APK)** | [Download](https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/f6ee9f52-0117-4fd2-861f-bc1b31ef10d1)                    |
 | **API Health Check** | [https://eduzap-backend.onrender.com/health](https://eduzap-backend.onrender.com/health) |
 
 ---

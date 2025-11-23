@@ -259,6 +259,5 @@ socket.on("newRequest", data => setRequests(prev => [data, ...prev]));
 ---
 
 ## 👨‍💻 Author
-
-**EDUZAP LLP**
+**Vibhuti**
 

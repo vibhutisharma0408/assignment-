@@ -2,6 +2,13 @@
 
 A complete full-stack application for submitting and managing requests, built with React Native (Expo), Node.js/Express, and React.js.
 
+## 🚀 Live Demo
+
+- **Backend API:** [https://eduzap-backend.onrender.com](https://eduzap-backend.onrender.com)
+- **Web Dashboard:** [https://assignment-d8jj.onrender.com](https://assignment-d8jj.onrender.com)
+- **Mobile App APK:** [Download from Expo](https://expo.dev/artifacts/eas/k3iLcepZM2LDUdv3t1wbMj.aab)
+- **API Health Check:** [https://eduzap-backend.onrender.com/health](https://eduzap-backend.onrender.com/health)
+
 ## Project Structure
 
 ```

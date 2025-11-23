@@ -9,8 +9,27 @@ A complete **full-stack application** for submitting and managing requests — p
 | -------------------- | ---------------------------------------------------------------------------------------- |
 | **Backend API**      | [https://eduzap-backend.onrender.com](https://eduzap-backend.onrender.com)               |
 | **Web Dashboard**    | [https://assignment-d8jj.onrender.com](https://assignment-d8jj.onrender.com)             |
-| **Mobile App (APK)** | [Download](https://expo.dev/artifacts/eas/k3iLcepZM2LDUdv3t1wbMj.aab)                    |
+| **Mobile App (APK)** | [Download & Install](https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/f6ee9f52-0117-4fd2-861f-bc1b31ef10d1) |
 | **API Health Check** | [https://eduzap-backend.onrender.com/health](https://eduzap-backend.onrender.com/health) |
+
+### 📱 Mobile App Installation
+
+**Shareable Download Link (Anyone can use this!):**
+```
+https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/f6ee9f52-0117-4fd2-861f-bc1b31ef10d1
+```
+
+**Installation Steps:**
+1. Open the link above on Android phone
+2. Click "Download" button on the page
+3. Install APK (enable "Install from unknown sources" in Settings → Security if needed)
+4. Open the app and start using!
+
+**Features:**
+- ✅ Direct download link
+- ✅ Works on any Android device
+- ✅ No app store required
+- ✅ Share with recruiters/friends easily
 
 ---
 

@@ -14,10 +14,10 @@ import {
 import * as ImagePicker from 'expo-image-picker';
 import axios from 'axios';
 
-// Use environment variable or default to localhost
-// For physical device testing, set EXPO_PUBLIC_API_URL in .env file
-// Example: EXPO_PUBLIC_API_URL=http://192.168.1.8:5000
-const API_URL = process.env.EXPO_PUBLIC_API_URL || 'http://localhost:5000';
+// Use environment variable or default to deployed backend
+// For local development, set EXPO_PUBLIC_API_URL in .env file
+// Production: Uses deployed backend URL
+const API_URL = process.env.EXPO_PUBLIC_API_URL || 'https://eduzap-backend.onrender.com';
 
 // Log API URL for debugging
 console.log('🔗 API URL:', API_URL);

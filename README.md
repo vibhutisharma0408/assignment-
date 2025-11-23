@@ -9,14 +9,14 @@ A complete **full-stack application** for submitting and managing requests — p
 | -------------------- | ---------------------------------------------------------------------------------------- |
 | **Backend API**      | [https://eduzap-backend.onrender.com](https://eduzap-backend.onrender.com)               |
 | **Web Dashboard**    | [https://assignment-d8jj.onrender.com](https://assignment-d8jj.onrender.com)             |
-| **Mobile App (APK)** | [Download & Install](https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/f6ee9f52-0117-4fd2-861f-bc1b31ef10d1) |
+| **Mobile App (APK)** | [Download & Install](https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/1a5718bf-540a-4e60-b125-79494785d9f1) |
 | **API Health Check** | [https://eduzap-backend.onrender.com/health](https://eduzap-backend.onrender.com/health) |
 
 ### 📱 Mobile App Installation
 
 **Shareable Download Link (Anyone can use this!):**
 ```
-https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/f6ee9f52-0117-4fd2-861f-bc1b31ef10d1
+https://expo.dev/accounts/vibhuti_sharma/projects/mobile/builds/1a5718bf-540a-4e60-b125-79494785d9f1
 ```
 
 **Installation Steps:**

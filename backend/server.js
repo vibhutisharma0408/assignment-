@@ -12,12 +12,20 @@ const server = http.createServer(app);
 // Initialize Socket.IO
 const io = new Server(server, {
   cors: {
-    origin: "*",
+    origin: [
+      "https://assignment-d8jj.onrender.com",  // Your web app URL
+      "http://localhost:3000"                    // For local development
+    ],
     methods: ["GET", "POST", "DELETE"]
   }
 });
 
-app.use(cors());
+app.use(cors({
+  origin: [
+    "https://assignment-d8jj.onrender.com",  // Your web app URL
+    "http://localhost:3000"                    // For local development
+  ]
+}));
 app.use(express.json({ limit: '10mb' })); // Increase limit for image uploads
 
 // Root route
